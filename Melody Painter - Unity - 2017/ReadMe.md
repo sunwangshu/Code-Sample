@@ -1,8 +1,9 @@
 # Melody Painter
-![alt text](img/Melody Painter.png?raw=true)
+![alt text](img/Melody_Painter.png?raw=true)
 
 ## Intro:
 This is a series of class written for melody painter project.
+
 Project Link: http://www.sunwangshu.com/portfolio/melody-painter/
 
 ## Classes:
@@ -26,10 +27,13 @@ Spell Listener <- Note Listener Group <- Note Listeners.
 
 
 Class Hierarchy:
-![alt text](img/Class Hierarchy.png?raw=true)
+
+![alt text](img/Class_Hierarchy.png?raw=true)
 
 Note Listener Group:
-![alt text](img/Note Listener Group.png?raw=true)
+
+![alt text](img/Note_Listener_Group.png?raw=true)
 
 Spell Listener:
-![alt text](img/Spell Listener.png?raw=true)
+
+![alt text](img/Spell_Listener.png?raw=true)
