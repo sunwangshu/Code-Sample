@@ -1,5 +1,5 @@
 # Personal Space
-![alt text](img/tb2.png)
+![alt text](img/tb2.png?raw=true)
 
 ## Intro
 This is a series of classes in Personal Space project made with Unity.
@@ -10,7 +10,7 @@ The basic idea is that you want to maintain a good space with other people, othe
 
 The picture below show the green player entering the white comfort zone of another person, before entering the red alter zone of them.
 
-![alt text](img/Personal Space Model.jpeg "I don't understand")
+![alt text](img/Personal Space Model.jpeg?raw=true)
 
 **Player.cs**: Player life cycle, player shaming or cooling and color transitions, zone interactions with other pedestrians.
 
