@@ -22,6 +22,5 @@ public class ExampleIndicators : MonoBehaviour {
 			currentSpell.text = "Current Spell: #" + spellListener.GetSpell ();
 			spellListener.ReceiveSpell ();
 		}
-	}
-		
+	}	
 }
